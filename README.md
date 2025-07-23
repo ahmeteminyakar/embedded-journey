@@ -13,10 +13,10 @@ The aim of this repository is to build a strong foundation in embedded C program
 
 ## Platforms & Tools
 
-- **Microcontrollers:** STM32 Nucleo-F411RE, ESP32-S3 DevKitC-1  
-- **Development Environments:** STM32CubeIDE, PlatformIO, VS Code  
-- **Frameworks & Libraries:** STM32 HAL, FreeRTOS  
-- **Debug & Analysis:** Segger SystemView, UART, Logic Analyzer  
+- Microcontrollers: STM32 Nucleo-F411RE, ESP32-S3 DevKitC-1  
+- Development Environments: STM32CubeIDE, PlatformIO, VS Code  
+- Frameworks & Libraries: STM32 HAL, FreeRTOS  
+- Debug & Analysis: Segger SystemView, UART, Logic Analyzer  
 
 ---
 
@@ -32,16 +32,18 @@ The aim of this repository is to build a strong foundation in embedded C program
 
 ## Repository Structure
 
-- `/sprint-XX_topic/` — Code and documentation for each sprint  
-- `/docs/` — Technical diagrams, hardware schematics, test plans  
-- `/media/` — Demo videos, screenshots, and other media assets  
+- /sprint-XX_topic/ — Code and documentation for each sprint  
+- /docs/ — Technical diagrams, hardware schematics, test plans  
+ 
 
 ---
 
 ## Contribution & Contact
 
-This is a personal learning repository. For questions or suggestions, please contact me via GitHub or LinkedIn.
+This is a personal learning repository. For questions or suggestions, please contact me via GitHub or LinkedIn:
+
+- [LinkedIn Profile](https://www.linkedin.com/in/ahmet-emin-yakar-bbb6732a6/)
 
 ---
 
-> Maintained by [Ahmet Emin Yakar](https://github.com/ahmeteminyakar) | Embedded Systems Engineer in Training
+Maintained by [Ahmet Emin Yakar](https://github.com/ahmeteminyakar) | Embedded Systems Engineer in Training
